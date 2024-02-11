@@ -71,5 +71,8 @@
   "files": [
     "dist"
   ],
-  "types": "dist/index.d.ts"
+  "types": "dist/index.d.ts",
+  "dependencies": {
+    "react-denmark-map": "^1.3.1"
+  }
 }
